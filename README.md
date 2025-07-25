@@ -8,7 +8,6 @@ I'm a third-year Information Technology student with a journey that began in gam
 
 ## 🚀 Skills
 
-- **Tech Domains:** AI/ML, LLMs, Agentic RAG, Web Dev, Game Dev  
 - **Languages:** Python, JavaScript, TypeScript, SQL, C++, HTML, CSS   
 - **Frameworks & Tools:** React, Next.js, TailwindCSS, Node.js, Firebase, Git  
 - **Databases:** PostgreSQL, MongoDB, Redis 
